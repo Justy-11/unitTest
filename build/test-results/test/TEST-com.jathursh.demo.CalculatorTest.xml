@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="Calculator tests" tests="1" skipped="0" failures="0" errors="0" timestamp="2023-03-21T11:35:23" hostname="DESKTOP-294827C" time="1.046">
+  <properties/>
+  <testcase name="Test add method" classname="com.jathursh.demo.CalculatorTest" time="1.046"/>
+  <system-out><![CDATA[Numbers are too large.. It's going to take time
+]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
