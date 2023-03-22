@@ -1,7 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<testsuite name="com.jathursh.demo.TimeDirDemoTest" tests="1" skipped="0" failures="0" errors="0" timestamp="2023-03-22T06:46:24" hostname="DESKTOP-294827C" time="0.048">
-  <properties/>
-  <testcase name="testCase1(Path)" classname="com.jathursh.demo.TimeDirDemoTest" time="0.048"/>
-  <system-out><![CDATA[]]></system-out>
-  <system-err><![CDATA[]]></system-err>
-</testsuite>
