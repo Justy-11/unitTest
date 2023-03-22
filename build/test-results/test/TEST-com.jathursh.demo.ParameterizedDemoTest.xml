@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="com.jathursh.demo.ParameterizedDemoTest" tests="3" skipped="0" failures="0" errors="0" timestamp="2023-03-22T04:44:23" hostname="DESKTOP-294827C" time="0.129">
+  <properties/>
+  <testcase name="[1] 11, 23, 34" classname="com.jathursh.demo.ParameterizedDemoTest" time="0.116"/>
+  <testcase name="[2] 12, 22, 34" classname="com.jathursh.demo.ParameterizedDemoTest" time="0.002"/>
+  <testcase name="[3] 13, 21, 34" classname="com.jathursh.demo.ParameterizedDemoTest" time="0.003"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
