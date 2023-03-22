@@ -4,9 +4,7 @@ import static org.junit.jupiter.api.Assertions.*;
 import org.junit.jupiter.params.ParameterizedTest;
 import org.junit.jupiter.params.provider.*;
 
-import java.util.Locale;
 import java.util.stream.IntStream;
-import java.util.stream.Stream;
 
 public class ParameterizedDemoTest {
 
