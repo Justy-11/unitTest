@@ -5,7 +5,7 @@ import org.junit.jupiter.api.*;
 import static org.junit.jupiter.api.Assertions.*;
 import static org.junit.jupiter.api.Assumptions.assumeTrue;
 
-
+@Tag("standard")  // added on 22/03/2023
 public class StandardTests {
 
     @BeforeAll

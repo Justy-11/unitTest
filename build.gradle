@@ -16,5 +16,11 @@ dependencies {
 }
 
 test {
-    useJUnitPlatform()
+    useJUnitPlatform {
+//             added on 22/03/2023
+//            includeTags("calcAdd")
+        excludeTags("standard")
+
+    }
+
 }

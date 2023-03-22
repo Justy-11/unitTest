@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="com.jathursh.demo.DemoTest" tests="2" skipped="0" failures="0" errors="0" timestamp="2023-03-22T06:46:24" hostname="DESKTOP-294827C" time="0.015">
+  <properties/>
+  <testcase name="saySomething()" classname="com.jathursh.demo.DemoTest" time="0.01"/>
+  <testcase name="currentlyInfectedPeople()" classname="com.jathursh.demo.DemoTest" time="0.004"/>
+  <system-out><![CDATA[test instance
+Before each
+After each
+Before each
+After each
+]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="All the timeout test cases" tests="6" skipped="0" failures="0" errors="0" timestamp="2023-03-22T06:46:11" hostname="DESKTOP-294827C" time="6.151">
+  <properties/>
+  <testcase name="Test add method" classname="com.jathursh.demo.calculatorAddTest$TimeOutCases" time="1.077"/>
+  <testcase name="repetition 1 of 5" classname="com.jathursh.demo.calculatorAddTest$TimeOutCases" time="1.009"/>
+  <testcase name="repetition 2 of 5" classname="com.jathursh.demo.calculatorAddTest$TimeOutCases" time="1.011"/>
+  <testcase name="repetition 3 of 5" classname="com.jathursh.demo.calculatorAddTest$TimeOutCases" time="1.014"/>
+  <testcase name="repetition 4 of 5" classname="com.jathursh.demo.calculatorAddTest$TimeOutCases" time="1.01"/>
+  <testcase name="repetition 5 of 5" classname="com.jathursh.demo.calculatorAddTest$TimeOutCases" time="1.01"/>
+  <system-out><![CDATA[Numbers are too large.. It's going to take time
+Numbers are too large.. It's going to take time
+Numbers are too large.. It's going to take time
+Numbers are too large.. It's going to take time
+Numbers are too large.. It's going to take time
+Numbers are too large.. It's going to take time
+]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
